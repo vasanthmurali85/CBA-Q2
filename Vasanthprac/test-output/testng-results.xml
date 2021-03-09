@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-09T20:39:23 AEDT" name="Default suite" finished-at="2021-03-09T20:40:00 AEDT" duration-ms="37536">
+    <groups>
+      <group name="Progression">
+        <method signature="Admintest.t1()[pri:10, instance:Testcases.Admintest@56de5251]" name="t1" class="Testcases.Admintest"/>
+        <method signature="Admintest.t2()[pri:20, instance:Testcases.Admintest@56de5251]" name="t2" class="Testcases.Admintest"/>
+        <method signature="Admintest.t3()[pri:30, instance:Testcases.Admintest@56de5251]" name="t3" class="Testcases.Admintest"/>
+      </group> <!-- Progression -->
+    </groups>
+    <test started-at="2021-03-09T20:39:23 AEDT" name="Default test" finished-at="2021-03-09T20:40:00 AEDT" duration-ms="37536">
+      <class name="Testcases.Admintest">
+        <test-method is-config="true" signature="bf1()[pri:0, instance:Testcases.Admintest@56de5251]" started-at="2021-03-09T20:39:23 AEDT" name="bf1" finished-at="2021-03-09T20:39:26 AEDT" duration-ms="3593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+        <test-method signature="t1()[pri:10, instance:Testcases.Admintest@56de5251]" started-at="2021-03-09T20:39:26 AEDT" name="t1" finished-at="2021-03-09T20:39:42 AEDT" duration-ms="15868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method signature="t2()[pri:20, instance:Testcases.Admintest@56de5251]" started-at="2021-03-09T20:39:42 AEDT" name="t2" finished-at="2021-03-09T20:39:50 AEDT" duration-ms="8318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method signature="t3()[pri:30, instance:Testcases.Admintest@56de5251]" started-at="2021-03-09T20:39:50 AEDT" name="t3" finished-at="2021-03-09T20:39:59 AEDT" duration-ms="8996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t3 -->
+        <test-method is-config="true" signature="af1()[pri:0, instance:Testcases.Admintest@56de5251]" started-at="2021-03-09T20:39:59 AEDT" name="af1" finished-at="2021-03-09T20:40:00 AEDT" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af1 -->
+      </class> <!-- Testcases.Admintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
